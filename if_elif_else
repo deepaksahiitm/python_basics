@@ -1,8 +1,0 @@
-name="deepak"
-if name is "deepak":
-    print("Hi deepak")
-elif name is "ritesh":
-    print("Hi ritesh")
-else: 
-    print("You are not registered")
-    
